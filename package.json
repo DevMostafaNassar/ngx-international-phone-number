@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "ngx-international-phone-number@1.0.6",
+      "D:\\Quanode\\Quanode\\smartdoc\\angular"
+    ]
+  ],
+  "_from": "github:quaNode/ngx-international-phone-number",
+  "_id": "ngx-international-phone-number@1.0.6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/ngx-international-phone-number",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "ngx-international-phone-number@github:quaNode/ngx-international-phone-number",
+    "name": "ngx-international-phone-number",
+    "escapedName": "ngx-international-phone-number",
+    "rawSpec": "github:quaNode/ngx-international-phone-number",
+    "saveSpec": "github:quaNode/ngx-international-phone-number",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:quaNode/ngx-international-phone-number#fa36fcbea68057bd9e5d824ffa7ee0719ea4d66d",
+  "_spec": "ngx-international-phone-number@github:quaNode/ngx-international-phone-number",
+  "_where": "D:\\Quanode\\Quanode\\smartdoc\\angular",
+  "author": {
+    "name": "Nikhil Navadiya",
+    "email": "nikhil.navadiya@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nikhiln/ngx-international-phone-number/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "homepage": "https://github.com/nikhiln/ngx-international-phone-number#readme",
+  "jsnext:main": "index.js",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "main": "ngx-international-phone-number.umd.js",
+  "module": "index.js",
+  "name": "ngx-international-phone-number",
+  "peerDependencies": {
+    "@angular/core": "^7.1.3",
+    "@angular/forms": "^7.1.3",
+    "rxjs": "^6.3.3",
+    "zone.js": "^0.8.4",
+    "google-libphonenumber": "^3.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhiln/ngx-international-phone-number.git"
+  },
+  "typings": "ngx-international-phone-number.d.ts",
+  "version": "1.0.6"
+}
